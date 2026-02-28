@@ -2,15 +2,15 @@
 
 I'm Jordan, a senior student at Vassar College pursuing a degree in Mathematics and Statistics with a minor in Computer Science and Data Science.
 
-I will be pursuing my master's in Data Science and Statistics at SDSU once I am done at Vassar.
+I will be pursuing my master's in Data Science and Statistics at SDSU once I am done at Vassar College.
 
-I currently work on a Bayesian predictor model for sports betting 
+I currently work on small projects in my free time. 
 
 ------------------------------------------------------------
 
 # Tools and Techniques
 
-I currently am using JAGS 
+R, Python, SQL, Java, C, Ocaml
 
 <!--
 **jroesch-droid/jroesch-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
