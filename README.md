@@ -2,7 +2,7 @@
 
 I'm Jordan, a senior student at Vassar College pursuing a degree in Mathematics and Statistics with a minor in Computer Science and Data Science.
 
-I will be pursuing my master's in Data Science and Statistics at SDSU once I am done at Vassar College.
+I will be pursuing my master's in Data Science and Statistics at San Diego State University once I am done at Vassar College.
 
 I currently work on small projects in my free time. 
 
