@@ -10,7 +10,7 @@ I currently work on small projects in my free time.
 
 # Tools and Techniques
 
-R, Python, SQL, Java, C, Ocaml
+R, Python, SAS, SQL, Java, C, Ocaml
 
 <!--
 **jroesch-droid/jroesch-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
