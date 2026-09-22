@@ -19,7 +19,7 @@
 
 ## About
 
-I'm a statistician and data analyst in San Diego working at the intersection of **public health research** and **applied machine learning**. My day job is epidemiological data — cleaning it, validating it, modeling it, and making the results legible to people who don't write code. My repos are where I build the engineering side of that skill set: leak-safe ML pipelines, schema-validated ETL, and dashboards that update themselves.
+I'm a statistician and data analyst in San Diego working at the intersection of **public health research** and **applied machine learning**. My day job is epidemiological data: cleaning, validating, modeling, and making the results legible to people who don't write code. My repos show the engineering side of that skill set: leak-safe ML pipelines, schema-validated ETL, and self-updating dashboards.
 
 - 🔬 **Data Analyst**, SDSU Research Foundation — large-scale epidemiological datasets, recruitment &amp; enrollment tracking databases, EDC validation and QA, regression modeling with multidisciplinary research teams
 - 🤖 **AI Training Specialist (Data Science &amp; Mathematics)**, Handshake AI — evaluating and ranking model responses, annotating technical prompts
@@ -104,14 +104,6 @@ Plotly Dash · Chart.js · R Markdown · RStudio · Git · Excel · LaTeX
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jroesch-droid&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="Jordan's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jroesch-droid&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages">
-</p>
-
----
 
 ## Get in Touch
 
