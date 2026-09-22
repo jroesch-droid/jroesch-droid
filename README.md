@@ -2,9 +2,9 @@
 
 I'm Jordan, a recent graduate of Vassar College pursuing a degree in Mathematics and Statistics with a minor in Computer Science and Data Science.
 
-I will be pursuing my master's in Data Science and Statistics at San Diego State University.
+I am currently pursuing my master's in Data Science and Statistics at San Diego State University.
 
-I currently work on small projects in my free time. 
+I currently work on projects in my free time, and my current project is creating an automated quantitative trading bot. 
 
 ------------------------------------------------------------
 
